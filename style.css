@@ -1,0 +1,47 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    background-color: #caf0f8;
+    /*margin:0%*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+
+h1{
+    font-family: 'Segoe UI';
+    color: #03045e;
+    text-align: center;
+    line-height: 3;
+}
+
+section{
+    background-color: #90e0ef;
+}
+
+p{
+    color: #0077b6;
+    font-style: italic;
+    text-align: center;
+}
+
+.profilovka img{
+    border-radius: 50%;
+}
+
+div.profilovka{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 70%;
+}
+
